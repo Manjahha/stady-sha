@@ -1,0 +1,15 @@
+C:\git_lesson1\examples\progect002\bin\Debug\net6.0\progect002.exe
+C:\git_lesson1\examples\progect002\bin\Debug\net6.0\progect002.deps.json
+C:\git_lesson1\examples\progect002\bin\Debug\net6.0\progect002.runtimeconfig.json
+C:\git_lesson1\examples\progect002\bin\Debug\net6.0\progect002.dll
+C:\git_lesson1\examples\progect002\bin\Debug\net6.0\progect002.pdb
+C:\git_lesson1\examples\progect002\obj\Debug\net6.0\progect002.csproj.AssemblyReference.cache
+C:\git_lesson1\examples\progect002\obj\Debug\net6.0\progect002.GeneratedMSBuildEditorConfig.editorconfig
+C:\git_lesson1\examples\progect002\obj\Debug\net6.0\progect002.AssemblyInfoInputs.cache
+C:\git_lesson1\examples\progect002\obj\Debug\net6.0\progect002.AssemblyInfo.cs
+C:\git_lesson1\examples\progect002\obj\Debug\net6.0\progect002.csproj.CoreCompileInputs.cache
+C:\git_lesson1\examples\progect002\obj\Debug\net6.0\progect002.dll
+C:\git_lesson1\examples\progect002\obj\Debug\net6.0\refint\progect002.dll
+C:\git_lesson1\examples\progect002\obj\Debug\net6.0\progect002.pdb
+C:\git_lesson1\examples\progect002\obj\Debug\net6.0\progect002.genruntimeconfig.cache
+C:\git_lesson1\examples\progect002\obj\Debug\net6.0\ref\progect002.dll
